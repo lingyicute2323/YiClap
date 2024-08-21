@@ -1,6 +1,7 @@
 # YiClap
 ### Made for My Best Xyc～❤️
-A Material You Design music player for Android music lovers.
+
+#### A Material You Design music player for Android music lovers.
 ![image](https://raw.githubusercontent.com/lingyicute2323/YiClap/main/logo.webp)
 
 ## Downloads
